@@ -18,5 +18,5 @@ This repository contains my solutions and analyses for the Kaggle Titanic: Machi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/kaggle-titanic.git
-   cd kaggle-titanic
+   git clone https://github.com/yourusername/Titanic_kaggle.git
+   cd Titanic_kaggle
